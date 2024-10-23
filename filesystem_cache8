@@ -1,0 +1,65 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1729693979
+assento comum.png::CompressedTexture2D::7903570217168958454::1728861741::1729693981::1::::<><>::
+assento preferencial.png::CompressedTexture2D::5847346593930477946::1728861741::1729693981::1::::<><>::
+assento_7.gd::GDScript::-1::1729445928::0::1::::<>CollisionShape2D<>::
+assento_comum.gd::GDScript::-1::1729447187::0::1::::assento<>Sprite2D<>::
+camera_2d.gd::GDScript::-1::1729445015::0::1::::<>Camera2D<>::
+character_body_2d.gd::GDScript::-1::1729444122::0::1::::<>CharacterBody2D<>::
+global.gd::GDScript::-1::1729444122::0::1::::<>Camera2D<>::
+icon.svg::CompressedTexture2D::7500813948369412993::1728852050::1729693982::1::::<><>::
+metro.tscn::PackedScene::414391777353535178::1729693393::0::1::::<><>::uid://bmgnuwsksselk::::res://imagens e sprites/vagao finalizado.png<>uid://bv0p50semc7iq::::res://imagens e sprites/fundo cidade/1.png<>uid://ckqt8br7tb601::::res://imagens e sprites/novos sprites/porta fechada 64x64.png<>uid://bjt2uu5twuwmo::::res://imagens e sprites/fundo cidade/2.png<>uid://dmiv1xwwk2qi5::::res://imagens e sprites/fundo cidade/3.png<>uid://d710p4nelimp::::res://imagens e sprites/novos sprites/assento comum 1.png<>uid://ditswlvyo8i3t::::res://imagens e sprites/novos sprites/assento comum 2.png<>uid://bw3eybephss0t::::res://imagens e sprites/fundo cidade/nuvens (1).png<>uid://bia6jx3ios0u1::::res://imagens e sprites/fundo cidade/4.png<>uid://dyus3lu5rtvix::::res://imagens e sprites/novos sprites/assento comum 3.png<>uid://b0bc24bybfmnu::::res://imagens e sprites/novos sprites/assento comum 4.png<>uid://7wky2ptbcjlx::::res://imagens e sprites/fundo cidade/5.png<>uid://e51sy3auyi0o::::res://imagens e sprites/novos sprites/assento comum 5.png<>uid://bo4n7em8jy6w8::::res://códigos - .gd e .tscn/milesimoteste.tscn<>uid://bp3oe7lx0dgkc::::res://imagens e sprites/porta fechada.png
+milesimoteste.tscn::PackedScene::3429778145947638137::1729693393::0::1::::<><>::uid://bn3v682lhni1q::::res://imagens e sprites/sprite aleatorio.png
+parallax_background.gd::GDScript::-1::1729449567::0::1::::<>Node2D<>::
+parallax_layer.gd::GDScript::-1::1729449577::0::1::::<>Parallax2D<>::
+porta fechada.png::CompressedTexture2D::3497914795270212150::1728861741::1729693982::1::::<><>::
+porta.tscn::PackedScene::909469687450943951::1729445076::0::1::::<><>::uid://bux2ro7iv8ga4::::res://novos sprites/sprite porta.png
+sprite aleatorio.png::CompressedTexture2D::3358010420050282396::1728852501::1729693982::1::::<><>::
+tela_de_dialogo.tscn::PackedScene::445366419721001653::1729447193::0::1::::<><>::
+tela_inicial.gd::GDScript::-1::1729433092::0::1::::<>Control<>::
+tela_inicial.tscn::PackedScene::1105774542530251870::1729693393::0::1::::<><>::
+title_screen.tscn::PackedScene::8634297270017125801::1729381242::0::1::::<><>::uid://bltfh5g75f71b::::res://novos sprites/city 3/1.png<>uid://dobmvfen3on5h::::res://novos sprites/city 3/2.png<>uid://dgxxnw05mjmhe::::res://novos sprites/city 3/3.png<>uid://4nur0kj5512b::::res://novos sprites/city 3/4.png<>uid://ccbjexsb4gian::::res://novos sprites/city 3/5.png<>uid://dr7yt32biuiym::::res://novos sprites/city 3/botão jogar (1).png
+tunel.png::CompressedTexture2D::9113482864305306121::1729448623::1729693982::1::::<><>::
+vagao finalizado.png::CompressedTexture2D::3241899294457213696::1728868833::1729693982::1::::<><>::
+::res://códigos - .gd e .tscn/::1729693952
+::res://fundo cidade/::1729641558
+1.png::CompressedTexture2D::3912961513740046064::1729451236::1729693982::1::::<><>::
+2.png::CompressedTexture2D::3059019626149940446::1729451236::1729693982::1::::<><>::
+3.png::CompressedTexture2D::8019365927294566182::1729451236::1729693982::1::::<><>::
+4.png::CompressedTexture2D::2949830983392770710::1729451236::1729693982::1::::<><>::
+5.png::CompressedTexture2D::2292110778154952433::1729451236::1729693982::1::::<><>::
+nuvens (1).png::CompressedTexture2D::3988663607262453261::1729451236::1729693982::1::::<><>::
+segurador 480x160.png::CompressedTexture2D::5127150798991011172::1729452330::1729693982::1::::<><>::
+::res://imagens e sprites/::1729693963
+::res://novos sprites/::1729641558
+assento comum 1.png::CompressedTexture2D::278250738949588543::1728868796::1729693982::1::::<><>::
+assento comum 2.png::CompressedTexture2D::7761128782154612499::1728868796::1729693982::1::::<><>::
+assento comum 3.png::CompressedTexture2D::8886225371611901027::1728868796::1729693981::1::::<><>::
+assento comum 4.png::CompressedTexture2D::4143377328632891510::1728868796::1729693981::1::::<><>::
+assento comum 5.png::CompressedTexture2D::344298797118746240::1728868796::1729693981::1::::<><>::
+assento comum.png::CompressedTexture2D::8727214372186300492::1728868796::1729693981::1::::<><>::
+assento preferencial 1.png::CompressedTexture2D::8199100377320074079::1728868796::1729693981::1::::<><>::
+assento preferencial 2.png::CompressedTexture2D::4583131016401807236::1728868796::1729693981::1::::<><>::
+assento preferencial 3.png::CompressedTexture2D::3511261129981241215::1728868796::1729693981::1::::<><>::
+assento preferencial 4.png::CompressedTexture2D::884101947650893411::1728868796::1729693981::1::::<><>::
+assento preferencial 5.png::CompressedTexture2D::2656205609343510878::1728868796::1729693981::1::::<><>::
+assento preferencial 6.png::CompressedTexture2D::8706870873246045393::1728868796::1729693981::1::::<><>::
+assento preferencial 7.png::CompressedTexture2D::6495787191349698886::1728868796::1729693981::1::::<><>::
+assento preferencial.png::CompressedTexture2D::1013831948989255664::1728868796::1729693981::1::::<><>::
+porta fechada 64x64.png::CompressedTexture2D::5508972482157331936::1728868796::1729693981::1::::<><>::
+porta fechada.png::CompressedTexture2D::7134373182154516547::1728868796::1729693981::1::::<><>::
+sprite porta.png::CompressedTexture2D::3839348747251695117::1728868796::1729693982::1::::<><>::
+::res://novos sprites/city 3/::1729641558
+1.png::CompressedTexture2D::3198038813023348477::1729377389::1729693982::1::::<><>::
+2.png::CompressedTexture2D::8144736614775629319::1729377389::1729693982::1::::<><>::
+3.png::CompressedTexture2D::7629296702918544810::1729377389::1729693982::1::::<><>::
+4.png::CompressedTexture2D::2063559403639445487::1729377389::1729693982::1::::<><>::
+5.png::CompressedTexture2D::4915838264454811469::1729377389::1729693982::1::::<><>::
+6.png::CompressedTexture2D::3966453860328235121::1729377389::1729693982::1::::<><>::
+7.png::CompressedTexture2D::5383073879802026513::1729377389::1729693982::1::::<><>::
+botão créditos.png::CompressedTexture2D::9193468249088013575::1729380742::1729693982::1::::<><>::
+botão jogar (1).png::CompressedTexture2D::8420025131386800220::1729380891::1729693982::1::::<><>::
+botão jogar (2).png::CompressedTexture2D::44107588608475827::1729381104::1729693982::1::::<><>::
+botão jogar.png::CompressedTexture2D::6674329880928274492::1729380742::1729693982::1::::<><>::
+botão sair.png::CompressedTexture2D::2302874632324623945::1729380742::1729693982::1::::<><>::
+trem.png::CompressedTexture2D::7511118176088195674::1729379042::1729693982::1::::<><>::

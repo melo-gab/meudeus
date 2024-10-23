@@ -1,0 +1,15 @@
+AnimatedSprite2D
+Sprite2D
+ParallaxLayer
+ParallaxBackground
+Timer
+Parallax2D
+Node
+Camera2D
+TextureRect
+ColorRect
+HBoxContainer
+Button
+VBoxContainer
+MarginContainer
+Container
